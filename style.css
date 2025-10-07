@@ -1,0 +1,9 @@
+{
+  "name": "translation-auditor",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {}
+}
